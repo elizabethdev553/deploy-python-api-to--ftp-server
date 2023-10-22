@@ -1,0 +1,4 @@
+flask
+pinecone-client
+transformers
+torch
